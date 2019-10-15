@@ -4,3 +4,5 @@
 player_speed = 5;
 
 frames = 0;
+
+item_held = noone;
